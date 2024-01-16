@@ -1,0 +1,21 @@
+#Sent_id = 1				_				_
+#text= புனித நீர்				_				_
+#url = https://www.tamilnadutourism.tn.gov.in/tamil/destinations/agni-theertham-beach	15-03-2023 14:24:04			_				_
+1	punYiwa	punYiwam	NOUN	_	Number=Sing	2	nmod	2:nmod	2:nmod
+2	nIr	nIr	NOUN	_	Case=Nom|Number=Sing	0	root	0:root	_
+#Sent_id = 2				_				_
+#text= இந்த நீர்நிலையில் ஹேங்கவுட் செய்வதற்கு ஒரு நிதானமான இடமாக இருப்பதை விட அதிகமான விஷயங்கள் உள்ளன.				_				_
+#url = https://www.tamilnadutourism.tn.gov.in/tamil/destinations/agni-theertham-beach	15-03-2023 14:24:04			_				_
+1	inwa	inwa	DET	_	###None	2	 det	2: det	11:det,8: det,4: det,3: det,2: det
+2	nIrnilEyil	nIrnilE	NOUN	_	Case=Loc|Number=Sing	4	 obl_loc	4: obl_loc	12:obl_loc,8: obl_loc,4: obl_loc
+3	hefkavut	hefkavut	NOUN	_	Case=Nom|Number=Sing	4	 nsubj	4: nsubj	12:nsubj,8: nsubj,4: nsubj
+4	ceVyvawarYku	ceVyvawu	NOUN	_	Case=Dat|Number=Sing	8	 advcl	8: advcl	12:advcl,8: advcl
+5	oVru	oVnYrYu	DET	_	###None	8	 det	8: det	11:det,8: det
+6	niwAnYamAnYa	niwAnYamAnYa	ADJ	_	###None	8	 amod	8: amod	11:amod,8: amod
+7	itamAka	itam	ADV	_	Number=Sing	8	 advmod	8: advmod	12:advmod,8: advmod
+8	iruppawE	iruppawu	NOUN	_	Case=Acc|Number=Sing	12	obj	12:obj	12:obj
+9	vita	vita	ADP	_	###None	8	case	8:case	8:case
+10	awikamAnYa	awikamAnYa	ADJ	_	###None	11	amod	11:amod	11:amod
+11	viRayafkalY	viRayam	NOUN	_	Case=Nom|Number=Plur	12	nsubj	12:nsubj	12:nsubj
+12	ulYlYanYa	ulY	VERB	_	Gender=Neut|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	.	.	PUNCT	_	###None	12	punct	12:punct	12:punct
